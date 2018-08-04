@@ -1,0 +1,16 @@
+{
+  "name": "let-fiber-fly",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HeskeyBaozi/let-fiber-fly",
+  "author": "HeskeyBaozi <hezhiyu233@foxmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.9.7",
+    "ts-lint": "^4.5.1",
+    "typescript": "^3.0.1"
+  }
+}
